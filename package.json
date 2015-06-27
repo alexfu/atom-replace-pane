@@ -2,7 +2,7 @@
   "author": "Alex Fu <alex.fu914@gmail.com>",
   "name": "atom-replace-pane",
   "main": "./lib/atom-replace-pane",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Opens file in current pane/tab instead of in a new tab",
   "keywords": [
     "open",
