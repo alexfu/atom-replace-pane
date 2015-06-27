@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "description": "Opens file in current pane/tab instead of in a new tab",
   "keywords": ["open", "file", "replace pane", "replace buffer"],
-  "repository": "https://github.com/atom/atom-replace-pane",
+  "repository": "https://github.com/alexfu/atom-replace-pane",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
