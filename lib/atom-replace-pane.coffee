@@ -5,4 +5,5 @@ module.exports =
         items = atom.workspace.getPaneItems();
         items.forEach (item) ->
           if event.item != item
+            item.save()
             pane.destroyItem(item)
