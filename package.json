@@ -2,12 +2,9 @@
   "name": "atom-replace-pane",
   "main": "./lib/atom-replace-pane",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Opens file in current pane/tab instead of in a new tab",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-replace-pane:toggle"
-  },
   "repository": "https://github.com/atom/atom-replace-pane",
   "license": "MIT",
   "engines": {
