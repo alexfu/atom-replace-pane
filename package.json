@@ -2,9 +2,14 @@
   "author": "Alex Fu <alex.fu914@gmail.com>",
   "name": "atom-replace-pane",
   "main": "./lib/atom-replace-pane",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Opens file in current pane/tab instead of in a new tab",
-  "keywords": ["open", "file", "replace pane", "replace buffer"],
+  "keywords": [
+    "open",
+    "file",
+    "replace pane",
+    "replace buffer"
+  ],
   "repository": "https://github.com/alexfu/atom-replace-pane",
   "license": "MIT",
   "engines": {
